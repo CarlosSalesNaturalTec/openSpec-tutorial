@@ -101,3 +101,10 @@ openspec/
     │   └── specs/      → delta specs (só o que muda)
     └── archive/        → histórico de mudanças concluídas
 ```
+
+### Perfil expandido
+
+| Comando | Descrição 
+| :--- | :--- | 
+| `openspec config profile` | Configura o perfil expandido. Abre um menu interativo onde você seleciona os workflows desejados | 
+| `openspec update` | Aplica as mudanças no projeto atual. Regenera os arquivos de skills/commands do Claude Code com os novos workflows ativos | 

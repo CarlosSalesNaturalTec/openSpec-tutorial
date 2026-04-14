@@ -1,5 +1,7 @@
 # OpenSpec — Referência de Workflows
 
+## [Link oficial OpenSpec](https://github.com/Fission-AI/OpenSpec).
+
 ## NÃO CONHEÇO O CONTEXTO / REQUISITOS AMBÍGUOS
 ```
 /opsx:explore     → investigar, analisar, comparar opções 
